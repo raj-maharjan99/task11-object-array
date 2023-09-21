@@ -1,0 +1,16 @@
+.container {
+  height: auto;
+  width: 30%;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: #d7f574;
+  border-radius: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+.bullet {
+  list-style: number;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

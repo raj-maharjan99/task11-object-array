@@ -1,0 +1,21 @@
+.box {
+  height: auto;
+  width: 30%;
+
+  border: 1px solid #140101;
+
+  background-color: #dfa9f3;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #d7f574;
+  border-radius: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+.bullet1 {
+  list-style-type: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
